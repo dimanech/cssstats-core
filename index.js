@@ -8,6 +8,7 @@ var rules = require('./lib/rules')
 var selectors = require('./lib/selectors')
 var declarations = require('./lib/declarations')
 var mediaQueries = require('./lib/media-queries')
+var fontFaces = require('./lib/font-faces')
 
 module.exports = function (src, opts) {
   opts = opts || {}
@@ -35,6 +36,7 @@ module.exports = function (src, opts) {
     stats.selectors = selectors(root, opts)
     stats.declarations = declarations(root, opts)
     stats.mediaQueries = mediaQueries(root, opts)
+    stats.fontFaces = fontFaces(root, opts)
 
     // Push message to PostCSS when used as a plugin
     if (result && result.messages) {
