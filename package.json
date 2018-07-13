@@ -1,11 +1,14 @@
 {
-  "name": "cssstats",
+  "name": "@dimanech/cssstat-core",
   "version": "3.2.0",
   "description": "High-level stats for stylesheets",
   "main": "index.js",
   "author": "Brent Jackson",
   "license": "MIT",
-  "repository": "cssstats/cssstats-core",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimanech/cssstats-core.git"
+  },
   "keywords": [
     "CSS",
     "Performance",
@@ -46,5 +49,9 @@
       "describe",
       "it"
     ]
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
