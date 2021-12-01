@@ -23,13 +23,13 @@
       "max": 4,
       "average": 1.8333333333333333
     },
-    "selectorByRuleSizes": [
+    "selectorRuleSizes": [
       {
-        "selector": "100%",
+        "selector": "0%",
         "declarations": 4
       },
       {
-        "selector": "0%",
+        "selector": "100%",
         "declarations": 4
       },
       {
@@ -37,31 +37,15 @@
         "declarations": 3
       },
       {
-        "selector": ".box",
-        "declarations": 2
-      },
-      {
         "selector": ".sm-tomato:first-child:last-child",
         "declarations": 2
       },
       {
-        "selector": ".georgia",
-        "declarations": 1
+        "selector": ".box",
+        "declarations": 2
       },
       {
-        "selector": "header",
-        "declarations": 1
-      },
-      {
-        "selector": ".box:last-child",
-        "declarations": 1
-      },
-      {
-        "selector": ".box:first-child",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-tomato::after",
+        "selector": ".red, #foo",
         "declarations": 1
       },
       {
@@ -69,7 +53,23 @@
         "declarations": 1
       },
       {
-        "selector": ".red, #foo",
+        "selector": ".sm-tomato::after",
+        "declarations": 1
+      },
+      {
+        "selector": ".box:first-child",
+        "declarations": 1
+      },
+      {
+        "selector": ".box:last-child",
+        "declarations": 1
+      },
+      {
+        "selector": "header",
+        "declarations": 1
+      },
+      {
+        "selector": ".georgia",
         "declarations": 1
       }
     ]
@@ -99,7 +99,10 @@
     "specificity": {
       "max": 100,
       "average": 18
-    }
+    },
+    "selectorsLists": [
+      ".red, #foo"
+    ]
   },
   "declarations": {
     "total": 22,
@@ -173,7 +176,7 @@
             "max": 3,
             "average": 3
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".sm-tomato",
               "declarations": 3
@@ -193,7 +196,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 3,
@@ -212,5 +216,9 @@
         }
       }
     ]
+  },
+  "fontFaces": {
+    "total": 0,
+    "src": []
   }
 }

@@ -300,7 +300,7 @@
       "max": 12,
       "average": 1.6297577854671281
     },
-    "selectorByRuleSizes": [
+    "selectorRuleSizes": [
       {
         "selector": "button,\n.button",
         "declarations": 12
@@ -310,7 +310,7 @@
         "declarations": 11
       },
       {
-        "selector": ".button-red",
+        "selector": ".button-blue",
         "declarations": 9
       },
       {
@@ -318,7 +318,7 @@
         "declarations": 9
       },
       {
-        "selector": ".button-blue",
+        "selector": ".button-red",
         "declarations": 9
       },
       {
@@ -330,15 +330,7 @@
         "declarations": 6
       },
       {
-        "selector": ".button-nav-tab.is-active",
-        "declarations": 5
-      },
-      {
-        "selector": ".hide",
-        "declarations": 5
-      },
-      {
-        "selector": "input[type=text],\ninput[type=datetime],\ninput[type=datetime-local],\ninput[type=email],\ninput[type=month],\ninput[type=number],\ninput[type=password],\ninput[type=search],\ninput[type=tel],\ninput[type=time],\ninput[type=url],\ninput[type=week]",
+        "selector": "h1,\nh2,\nh3,\nh4,\nh5,\nh6",
         "declarations": 5
       },
       {
@@ -346,23 +338,19 @@
         "declarations": 5
       },
       {
-        "selector": "h1,\nh2,\nh3,\nh4,\nh5,\nh6",
+        "selector": "input[type=text],\ninput[type=datetime],\ninput[type=datetime-local],\ninput[type=email],\ninput[type=month],\ninput[type=number],\ninput[type=password],\ninput[type=search],\ninput[type=tel],\ninput[type=time],\ninput[type=url],\ninput[type=week]",
         "declarations": 5
       },
       {
-        "selector": ".field-dark",
-        "declarations": 4
+        "selector": ".hide",
+        "declarations": 5
       },
       {
-        "selector": "hr",
-        "declarations": 4
+        "selector": ".button-nav-tab.is-active",
+        "declarations": 5
       },
       {
-        "selector": "table",
-        "declarations": 4
-      },
-      {
-        "selector": ".fieldset-reset",
+        "selector": "select",
         "declarations": 4
       },
       {
@@ -370,83 +358,23 @@
         "declarations": 4
       },
       {
-        "selector": "select",
+        "selector": ".fieldset-reset",
         "declarations": 4
       },
       {
-        "selector": ".border-left",
-        "declarations": 3
+        "selector": "table",
+        "declarations": 4
       },
       {
-        "selector": ".border-bottom",
-        "declarations": 3
+        "selector": "hr",
+        "declarations": 4
       },
       {
-        "selector": ".border-right",
-        "declarations": 3
+        "selector": ".field-dark",
+        "declarations": 4
       },
       {
-        "selector": ".border-top",
-        "declarations": 3
-      },
-      {
-        "selector": ".border",
-        "declarations": 3
-      },
-      {
-        "selector": ".button-nav-tab",
-        "declarations": 3
-      },
-      {
-        "selector": ".button-blue-outline:disabled,\n.button-blue-outline.is-disabled",
-        "declarations": 3
-      },
-      {
-        "selector": ".table-light th,\n.table-light td",
-        "declarations": 3
-      },
-      {
-        "selector": ".field-light:focus",
-        "declarations": 3
-      },
-      {
-        "selector": ".lg-col-right",
-        "declarations": 3
-      },
-      {
-        "selector": ".lg-col",
-        "declarations": 3
-      },
-      {
-        "selector": ".md-col-right",
-        "declarations": 3
-      },
-      {
-        "selector": ".md-col",
-        "declarations": 3
-      },
-      {
-        "selector": ".sm-col-right",
-        "declarations": 3
-      },
-      {
-        "selector": ".sm-col",
-        "declarations": 3
-      },
-      {
-        "selector": ".col-right",
-        "declarations": 3
-      },
-      {
-        "selector": ".col",
-        "declarations": 3
-      },
-      {
-        "selector": ".container",
-        "declarations": 3
-      },
-      {
-        "selector": "pre",
+        "selector": "body",
         "declarations": 3
       },
       {
@@ -454,183 +382,83 @@
         "declarations": 3
       },
       {
-        "selector": "body",
+        "selector": "pre",
         "declarations": 3
       },
       {
-        "selector": ".button-red:focus",
-        "declarations": 2
+        "selector": ".container",
+        "declarations": 3
       },
       {
-        "selector": ".button-gray:focus",
-        "declarations": 2
+        "selector": ".col",
+        "declarations": 3
       },
       {
-        "selector": ".button-blue-outline:focus",
-        "declarations": 2
+        "selector": ".col-right",
+        "declarations": 3
       },
       {
-        "selector": ".button-blue-outline:hover,\n.button-blue-outline.is-active",
-        "declarations": 2
+        "selector": ".sm-col",
+        "declarations": 3
       },
       {
-        "selector": ".button-blue:focus",
-        "declarations": 2
+        "selector": ".sm-col-right",
+        "declarations": 3
       },
       {
-        "selector": ".field-dark:focus",
-        "declarations": 2
+        "selector": ".md-col",
+        "declarations": 3
       },
       {
-        "selector": ".radio-light:focus,\n.checkbox-light:focus",
-        "declarations": 2
+        "selector": ".md-col-right",
+        "declarations": 3
       },
       {
-        "selector": ".radio-light,\n.checkbox-light",
-        "declarations": 2
+        "selector": ".lg-col",
+        "declarations": 3
       },
       {
-        "selector": ".field-light:disabled",
-        "declarations": 2
+        "selector": ".lg-col-right",
+        "declarations": 3
       },
       {
-        "selector": "pre,\ncode",
-        "declarations": 2
+        "selector": ".field-light:focus",
+        "declarations": 3
       },
       {
-        "selector": "a",
-        "declarations": 2
+        "selector": ".table-light th,\n.table-light td",
+        "declarations": 3
       },
       {
-        "selector": "body",
-        "declarations": 2
+        "selector": ".button-blue-outline:disabled,\n.button-blue-outline.is-disabled",
+        "declarations": 3
       },
       {
-        "selector": ".lg-table-cell",
-        "declarations": 2
+        "selector": ".button-nav-tab",
+        "declarations": 3
       },
       {
-        "selector": ".lg-table",
-        "declarations": 2
+        "selector": ".border",
+        "declarations": 3
       },
       {
-        "selector": ".md-table-cell",
-        "declarations": 2
+        "selector": ".border-top",
+        "declarations": 3
       },
       {
-        "selector": ".md-table",
-        "declarations": 2
+        "selector": ".border-right",
+        "declarations": 3
       },
       {
-        "selector": ".sm-table-cell",
-        "declarations": 2
+        "selector": ".border-bottom",
+        "declarations": 3
       },
       {
-        "selector": ".sm-table",
-        "declarations": 2
+        "selector": ".border-left",
+        "declarations": 3
       },
       {
-        "selector": ".table-cell",
-        "declarations": 2
-      },
-      {
-        "selector": ".table",
-        "declarations": 2
-      },
-      {
-        "selector": ".x-group-item:focus,\n.x-group-item-2:focus,\n.y-group-item:focus,\n.y-group-item-2:focus",
-        "declarations": 2
-      },
-      {
-        "selector": ".button-narrow",
-        "declarations": 2
-      },
-      {
-        "selector": ".px4",
-        "declarations": 2
-      },
-      {
-        "selector": ".py4",
-        "declarations": 2
-      },
-      {
-        "selector": ".px3",
-        "declarations": 2
-      },
-      {
-        "selector": ".py3",
-        "declarations": 2
-      },
-      {
-        "selector": ".px2",
-        "declarations": 2
-      },
-      {
-        "selector": ".py2",
-        "declarations": 2
-      },
-      {
-        "selector": ".px1",
-        "declarations": 2
-      },
-      {
-        "selector": ".py1",
-        "declarations": 2
-      },
-      {
-        "selector": ".mx-auto",
-        "declarations": 2
-      },
-      {
-        "selector": ".mxn4",
-        "declarations": 2
-      },
-      {
-        "selector": ".mxn3",
-        "declarations": 2
-      },
-      {
-        "selector": ".mxn2",
-        "declarations": 2
-      },
-      {
-        "selector": ".mxn1",
-        "declarations": 2
-      },
-      {
-        "selector": ".caps",
-        "declarations": 2
-      },
-      {
-        "selector": ".clearfix:before,\n.clearfix:after",
-        "declarations": 2
-      },
-      {
-        "selector": "th,\ntd",
-        "declarations": 2
-      },
-      {
-        "selector": "th",
-        "declarations": 2
-      },
-      {
-        "selector": "::-moz-focus-inner",
-        "declarations": 2
-      },
-      {
-        "selector": "input,\nselect,\ntextarea,\nfieldset",
-        "declarations": 2
-      },
-      {
-        "selector": ".list-reset",
-        "declarations": 2
-      },
-      {
-        "selector": "blockquote,\nblockquote p",
-        "declarations": 2
-      },
-      {
-        "selector": "hr",
+        "selector": "button,\ninput,\nselect,\ntextarea",
         "declarations": 2
       },
       {
@@ -638,815 +466,183 @@
         "declarations": 2
       },
       {
-        "selector": "button,\ninput,\nselect,\ntextarea",
+        "selector": "hr",
         "declarations": 2
       },
       {
-        "selector": ".not-rounded",
-        "declarations": 1
+        "selector": "blockquote,\nblockquote p",
+        "declarations": 2
       },
       {
-        "selector": ".rounded-left",
-        "declarations": 1
+        "selector": ".list-reset",
+        "declarations": 2
       },
       {
-        "selector": ".rounded-bottom",
-        "declarations": 1
+        "selector": "input,\nselect,\ntextarea,\nfieldset",
+        "declarations": 2
       },
       {
-        "selector": ".rounded-right",
-        "declarations": 1
-      },
-      {
-        "selector": ".rounded-top",
-        "declarations": 1
-      },
-      {
-        "selector": ".circle",
-        "declarations": 1
-      },
-      {
-        "selector": ".rounded",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-darken-4",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-darken-3",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-darken-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-darken-1",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-yellow",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-green",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-red",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-lighter-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-light-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-mid-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-blue",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-white",
-        "declarations": 1
-      },
-      {
-        "selector": ".bg-dark-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".yellow",
-        "declarations": 1
-      },
-      {
-        "selector": ".green",
-        "declarations": 1
-      },
-      {
-        "selector": ".red",
-        "declarations": 1
-      },
-      {
-        "selector": ".lighter-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".light-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".mid-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".blue",
-        "declarations": 1
-      },
-      {
-        "selector": ".white",
-        "declarations": 1
-      },
-      {
-        "selector": ".dark-gray",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-nav-tab:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-nav-dark:active,\n.button-nav-dark.is-active",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-nav-dark:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-nav-dark",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-nav-light:active,\n.button-nav-light.is-active",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-nav-light:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-red:disabled,\n.button-red.is-disabled",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-red:active,\n.button-red.is-active",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-red:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-gray:disabled,\n.button-gray.is-disabled",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-gray:active,\n.button-gray:is-active",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-gray:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-blue-outline:active",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-blue:disabled,\n.button-blue.is-disabled",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-blue:active,\n.button-blue.is-active",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-blue:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark.is-error",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark.is-warning",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark.is-success",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark:invalid",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark:read-only:not(select)",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark::placeholder",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark:-ms-input-placeholder",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark::-moz-placeholder",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-dark::-webkit-input-placeholder",
-        "declarations": 1
-      },
-      {
-        "selector": ".radio-light",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-light.is-error",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-light.is-warning",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-light.is-success",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-light:invalid",
-        "declarations": 1
-      },
-      {
-        "selector": ".field-light:read-only:not(select)",
-        "declarations": 1
-      },
-      {
-        "selector": "a:hover",
-        "declarations": 1
-      },
-      {
-        "selector": ".table-fixed",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-12",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-11",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-10",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-9",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-8",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-7",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-6",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-5",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-4",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-3",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-col-1",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-12",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-11",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-10",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-9",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-8",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-7",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-6",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-5",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-4",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-3",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-col-1",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-12",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-11",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-10",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-9",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-8",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-7",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-6",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-5",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-4",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-3",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-col-1",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-12",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-11",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-10",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-9",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-8",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-7",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-6",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-5",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-4",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-3",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".col-1",
-        "declarations": 1
-      },
-      {
-        "selector": ".disclosure-group.is-active .disclosure-show",
-        "declarations": 1
-      },
-      {
-        "selector": ".disclosure-group .disclosure-show",
-        "declarations": 1
-      },
-      {
-        "selector": ".y-group-item-2:first-of-type",
-        "declarations": 1
-      },
-      {
-        "selector": ".y-group-item-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".x-group-item-2:first-of-type",
-        "declarations": 1
-      },
-      {
-        "selector": ".x-group-item-2",
-        "declarations": 1
-      },
-      {
-        "selector": ".y-group-item:first-of-type",
-        "declarations": 1
-      },
-      {
-        "selector": ".y-group-item",
-        "declarations": 1
-      },
-      {
-        "selector": ".x-group-item:first-of-type",
-        "declarations": 1
-      },
-      {
-        "selector": ".x-group-item",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-big",
-        "declarations": 1
-      },
-      {
-        "selector": ".button-small",
-        "declarations": 1
-      },
-      {
-        "selector": ".z4",
-        "declarations": 1
-      },
-      {
-        "selector": ".z3",
-        "declarations": 1
-      },
-      {
-        "selector": ".z2",
-        "declarations": 1
-      },
-      {
-        "selector": ".z1",
-        "declarations": 1
-      },
-      {
-        "selector": ".left-0",
-        "declarations": 1
-      },
-      {
-        "selector": ".bottom-0",
-        "declarations": 1
-      },
-      {
-        "selector": ".right-0",
-        "declarations": 1
-      },
-      {
-        "selector": ".top-0",
-        "declarations": 1
-      },
-      {
-        "selector": ".fixed",
-        "declarations": 1
-      },
-      {
-        "selector": ".absolute",
-        "declarations": 1
-      },
-      {
-        "selector": ".relative",
-        "declarations": 1
-      },
-      {
-        "selector": ".display-none",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-hide",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-hide",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-hide",
-        "declarations": 1
-      },
-      {
-        "selector": ".lg-show",
-        "declarations": 1
-      },
-      {
-        "selector": ".md-show",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-show",
-        "declarations": 1
-      },
-      {
-        "selector": ".sm-show,\n.md-show,\n.lg-show",
-        "declarations": 1
-      },
-      {
-        "selector": ".p4",
-        "declarations": 1
-      },
-      {
-        "selector": ".p3",
-        "declarations": 1
-      },
-      {
-        "selector": ".p2",
-        "declarations": 1
-      },
-      {
-        "selector": ".p1",
-        "declarations": 1
-      },
-      {
-        "selector": ".ml4",
-        "declarations": 1
-      },
-      {
-        "selector": ".mb4",
-        "declarations": 1
-      },
-      {
-        "selector": ".mr4",
-        "declarations": 1
-      },
-      {
-        "selector": ".mt4",
-        "declarations": 1
-      },
-      {
-        "selector": ".m4",
-        "declarations": 1
-      },
-      {
-        "selector": ".ml3",
-        "declarations": 1
-      },
-      {
-        "selector": ".mb3",
-        "declarations": 1
-      },
-      {
-        "selector": ".mr3",
-        "declarations": 1
-      },
-      {
-        "selector": ".mt3",
-        "declarations": 1
-      },
-      {
-        "selector": ".m3",
-        "declarations": 1
-      },
-      {
-        "selector": ".ml2",
-        "declarations": 1
-      },
-      {
-        "selector": ".mb2",
-        "declarations": 1
-      },
-      {
-        "selector": ".mr2",
-        "declarations": 1
-      },
-      {
-        "selector": ".mt2",
-        "declarations": 1
-      },
-      {
-        "selector": ".m2",
-        "declarations": 1
-      },
-      {
-        "selector": ".ml1",
-        "declarations": 1
-      },
-      {
-        "selector": ".mb1",
-        "declarations": 1
-      },
-      {
-        "selector": ".mr1",
-        "declarations": 1
-      },
-      {
-        "selector": ".mt1",
-        "declarations": 1
-      },
-      {
-        "selector": ".m1",
-        "declarations": 1
-      },
-      {
-        "selector": ".ml0",
-        "declarations": 1
-      },
-      {
-        "selector": ".mb0",
-        "declarations": 1
-      },
-      {
-        "selector": ".mr0",
-        "declarations": 1
-      },
-      {
-        "selector": ".mt0",
-        "declarations": 1
-      },
-      {
-        "selector": ".m0",
-        "declarations": 1
-      },
-      {
-        "selector": ".nowrap",
-        "declarations": 1
-      },
-      {
-        "selector": ".justify",
-        "declarations": 1
-      },
-      {
-        "selector": ".right-align",
-        "declarations": 1
-      },
-      {
-        "selector": ".center",
-        "declarations": 1
-      },
-      {
-        "selector": ".left-align",
-        "declarations": 1
-      },
-      {
-        "selector": ".italic",
-        "declarations": 1
-      },
-      {
-        "selector": ".regular",
-        "declarations": 1
-      },
-      {
-        "selector": ".bold",
-        "declarations": 1
-      },
-      {
-        "selector": ".full-width",
-        "declarations": 1
-      },
-      {
-        "selector": ".half-width",
-        "declarations": 1
-      },
-      {
-        "selector": ".fit",
-        "declarations": 1
-      },
-      {
-        "selector": ".right",
-        "declarations": 1
-      },
-      {
-        "selector": ".left",
-        "declarations": 1
-      },
-      {
-        "selector": ".clearfix:after",
-        "declarations": 1
-      },
-      {
-        "selector": ".overflow-scroll",
-        "declarations": 1
-      },
-      {
-        "selector": ".overflow-hidden",
-        "declarations": 1
-      },
-      {
-        "selector": ".inline-block",
-        "declarations": 1
-      },
-      {
-        "selector": ".block",
-        "declarations": 1
-      },
-      {
-        "selector": ".inline",
-        "declarations": 1
-      },
-      {
-        "selector": "td",
-        "declarations": 1
+        "selector": "::-moz-focus-inner",
+        "declarations": 2
       },
       {
         "selector": "th",
-        "declarations": 1
+        "declarations": 2
       },
       {
-        "selector": ".button:hover",
-        "declarations": 1
+        "selector": "th,\ntd",
+        "declarations": 2
       },
       {
-        "selector": ".fieldset-reset legend",
-        "declarations": 1
+        "selector": ".clearfix:before,\n.clearfix:after",
+        "declarations": 2
       },
       {
-        "selector": "select:not([multiple])",
-        "declarations": 1
+        "selector": ".caps",
+        "declarations": 2
       },
       {
-        "selector": "h6,\n.h6",
-        "declarations": 1
+        "selector": ".mxn1",
+        "declarations": 2
       },
       {
-        "selector": "h5,\n.h5",
-        "declarations": 1
+        "selector": ".mxn2",
+        "declarations": 2
       },
       {
-        "selector": "h4,\n.h4",
-        "declarations": 1
+        "selector": ".mxn3",
+        "declarations": 2
       },
       {
-        "selector": "h3,\n.h3",
-        "declarations": 1
+        "selector": ".mxn4",
+        "declarations": 2
       },
       {
-        "selector": "h2,\n.h2",
-        "declarations": 1
+        "selector": ".mx-auto",
+        "declarations": 2
       },
       {
-        "selector": "h1,\n.h1",
-        "declarations": 1
+        "selector": ".py1",
+        "declarations": 2
       },
       {
-        "selector": "ol,\nul",
-        "declarations": 1
+        "selector": ".px1",
+        "declarations": 2
       },
       {
-        "selector": "svg",
+        "selector": ".py2",
+        "declarations": 2
+      },
+      {
+        "selector": ".px2",
+        "declarations": 2
+      },
+      {
+        "selector": ".py3",
+        "declarations": 2
+      },
+      {
+        "selector": ".px3",
+        "declarations": 2
+      },
+      {
+        "selector": ".py4",
+        "declarations": 2
+      },
+      {
+        "selector": ".px4",
+        "declarations": 2
+      },
+      {
+        "selector": ".button-narrow",
+        "declarations": 2
+      },
+      {
+        "selector": ".x-group-item:focus,\n.x-group-item-2:focus,\n.y-group-item:focus,\n.y-group-item-2:focus",
+        "declarations": 2
+      },
+      {
+        "selector": ".table",
+        "declarations": 2
+      },
+      {
+        "selector": ".table-cell",
+        "declarations": 2
+      },
+      {
+        "selector": ".sm-table",
+        "declarations": 2
+      },
+      {
+        "selector": ".sm-table-cell",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-table",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-table-cell",
+        "declarations": 2
+      },
+      {
+        "selector": ".lg-table",
+        "declarations": 2
+      },
+      {
+        "selector": ".lg-table-cell",
+        "declarations": 2
+      },
+      {
+        "selector": "body",
+        "declarations": 2
+      },
+      {
+        "selector": "a",
+        "declarations": 2
+      },
+      {
+        "selector": "pre,\ncode",
+        "declarations": 2
+      },
+      {
+        "selector": ".field-light:disabled",
+        "declarations": 2
+      },
+      {
+        "selector": ".radio-light,\n.checkbox-light",
+        "declarations": 2
+      },
+      {
+        "selector": ".radio-light:focus,\n.checkbox-light:focus",
+        "declarations": 2
+      },
+      {
+        "selector": ".field-dark:focus",
+        "declarations": 2
+      },
+      {
+        "selector": ".button-blue:focus",
+        "declarations": 2
+      },
+      {
+        "selector": ".button-blue-outline:hover,\n.button-blue-outline.is-active",
+        "declarations": 2
+      },
+      {
+        "selector": ".button-blue-outline:focus",
+        "declarations": 2
+      },
+      {
+        "selector": ".button-gray:focus",
+        "declarations": 2
+      },
+      {
+        "selector": ".button-red:focus",
+        "declarations": 2
+      },
+      {
+        "selector": "body,\nbutton",
         "declarations": 1
       },
       {
@@ -1454,7 +650,811 @@
         "declarations": 1
       },
       {
-        "selector": "body,\nbutton",
+        "selector": "svg",
+        "declarations": 1
+      },
+      {
+        "selector": "ol,\nul",
+        "declarations": 1
+      },
+      {
+        "selector": "h1,\n.h1",
+        "declarations": 1
+      },
+      {
+        "selector": "h2,\n.h2",
+        "declarations": 1
+      },
+      {
+        "selector": "h3,\n.h3",
+        "declarations": 1
+      },
+      {
+        "selector": "h4,\n.h4",
+        "declarations": 1
+      },
+      {
+        "selector": "h5,\n.h5",
+        "declarations": 1
+      },
+      {
+        "selector": "h6,\n.h6",
+        "declarations": 1
+      },
+      {
+        "selector": "select:not([multiple])",
+        "declarations": 1
+      },
+      {
+        "selector": ".fieldset-reset legend",
+        "declarations": 1
+      },
+      {
+        "selector": ".button:hover",
+        "declarations": 1
+      },
+      {
+        "selector": "th",
+        "declarations": 1
+      },
+      {
+        "selector": "td",
+        "declarations": 1
+      },
+      {
+        "selector": ".inline",
+        "declarations": 1
+      },
+      {
+        "selector": ".block",
+        "declarations": 1
+      },
+      {
+        "selector": ".inline-block",
+        "declarations": 1
+      },
+      {
+        "selector": ".overflow-hidden",
+        "declarations": 1
+      },
+      {
+        "selector": ".overflow-scroll",
+        "declarations": 1
+      },
+      {
+        "selector": ".clearfix:after",
+        "declarations": 1
+      },
+      {
+        "selector": ".left",
+        "declarations": 1
+      },
+      {
+        "selector": ".right",
+        "declarations": 1
+      },
+      {
+        "selector": ".fit",
+        "declarations": 1
+      },
+      {
+        "selector": ".half-width",
+        "declarations": 1
+      },
+      {
+        "selector": ".full-width",
+        "declarations": 1
+      },
+      {
+        "selector": ".bold",
+        "declarations": 1
+      },
+      {
+        "selector": ".regular",
+        "declarations": 1
+      },
+      {
+        "selector": ".italic",
+        "declarations": 1
+      },
+      {
+        "selector": ".left-align",
+        "declarations": 1
+      },
+      {
+        "selector": ".center",
+        "declarations": 1
+      },
+      {
+        "selector": ".right-align",
+        "declarations": 1
+      },
+      {
+        "selector": ".justify",
+        "declarations": 1
+      },
+      {
+        "selector": ".nowrap",
+        "declarations": 1
+      },
+      {
+        "selector": ".m0",
+        "declarations": 1
+      },
+      {
+        "selector": ".mt0",
+        "declarations": 1
+      },
+      {
+        "selector": ".mr0",
+        "declarations": 1
+      },
+      {
+        "selector": ".mb0",
+        "declarations": 1
+      },
+      {
+        "selector": ".ml0",
+        "declarations": 1
+      },
+      {
+        "selector": ".m1",
+        "declarations": 1
+      },
+      {
+        "selector": ".mt1",
+        "declarations": 1
+      },
+      {
+        "selector": ".mr1",
+        "declarations": 1
+      },
+      {
+        "selector": ".mb1",
+        "declarations": 1
+      },
+      {
+        "selector": ".ml1",
+        "declarations": 1
+      },
+      {
+        "selector": ".m2",
+        "declarations": 1
+      },
+      {
+        "selector": ".mt2",
+        "declarations": 1
+      },
+      {
+        "selector": ".mr2",
+        "declarations": 1
+      },
+      {
+        "selector": ".mb2",
+        "declarations": 1
+      },
+      {
+        "selector": ".ml2",
+        "declarations": 1
+      },
+      {
+        "selector": ".m3",
+        "declarations": 1
+      },
+      {
+        "selector": ".mt3",
+        "declarations": 1
+      },
+      {
+        "selector": ".mr3",
+        "declarations": 1
+      },
+      {
+        "selector": ".mb3",
+        "declarations": 1
+      },
+      {
+        "selector": ".ml3",
+        "declarations": 1
+      },
+      {
+        "selector": ".m4",
+        "declarations": 1
+      },
+      {
+        "selector": ".mt4",
+        "declarations": 1
+      },
+      {
+        "selector": ".mr4",
+        "declarations": 1
+      },
+      {
+        "selector": ".mb4",
+        "declarations": 1
+      },
+      {
+        "selector": ".ml4",
+        "declarations": 1
+      },
+      {
+        "selector": ".p1",
+        "declarations": 1
+      },
+      {
+        "selector": ".p2",
+        "declarations": 1
+      },
+      {
+        "selector": ".p3",
+        "declarations": 1
+      },
+      {
+        "selector": ".p4",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-show,\n.md-show,\n.lg-show",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-show",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-show",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-show",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-hide",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-hide",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-hide",
+        "declarations": 1
+      },
+      {
+        "selector": ".display-none",
+        "declarations": 1
+      },
+      {
+        "selector": ".relative",
+        "declarations": 1
+      },
+      {
+        "selector": ".absolute",
+        "declarations": 1
+      },
+      {
+        "selector": ".fixed",
+        "declarations": 1
+      },
+      {
+        "selector": ".top-0",
+        "declarations": 1
+      },
+      {
+        "selector": ".right-0",
+        "declarations": 1
+      },
+      {
+        "selector": ".bottom-0",
+        "declarations": 1
+      },
+      {
+        "selector": ".left-0",
+        "declarations": 1
+      },
+      {
+        "selector": ".z1",
+        "declarations": 1
+      },
+      {
+        "selector": ".z2",
+        "declarations": 1
+      },
+      {
+        "selector": ".z3",
+        "declarations": 1
+      },
+      {
+        "selector": ".z4",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-small",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-big",
+        "declarations": 1
+      },
+      {
+        "selector": ".x-group-item",
+        "declarations": 1
+      },
+      {
+        "selector": ".x-group-item:first-of-type",
+        "declarations": 1
+      },
+      {
+        "selector": ".y-group-item",
+        "declarations": 1
+      },
+      {
+        "selector": ".y-group-item:first-of-type",
+        "declarations": 1
+      },
+      {
+        "selector": ".x-group-item-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".x-group-item-2:first-of-type",
+        "declarations": 1
+      },
+      {
+        "selector": ".y-group-item-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".y-group-item-2:first-of-type",
+        "declarations": 1
+      },
+      {
+        "selector": ".disclosure-group .disclosure-show",
+        "declarations": 1
+      },
+      {
+        "selector": ".disclosure-group.is-active .disclosure-show",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-1",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-3",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-4",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-5",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-6",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-7",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-8",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-9",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-10",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-11",
+        "declarations": 1
+      },
+      {
+        "selector": ".col-12",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-1",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-3",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-4",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-5",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-6",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-7",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-8",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-9",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-10",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-11",
+        "declarations": 1
+      },
+      {
+        "selector": ".sm-col-12",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-1",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-3",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-4",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-5",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-6",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-7",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-8",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-9",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-10",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-11",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-col-12",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-1",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-3",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-4",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-5",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-6",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-7",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-8",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-9",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-10",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-11",
+        "declarations": 1
+      },
+      {
+        "selector": ".lg-col-12",
+        "declarations": 1
+      },
+      {
+        "selector": ".table-fixed",
+        "declarations": 1
+      },
+      {
+        "selector": "a:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-light:read-only:not(select)",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-light:invalid",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-light.is-success",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-light.is-warning",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-light.is-error",
+        "declarations": 1
+      },
+      {
+        "selector": ".radio-light",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark::-webkit-input-placeholder",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark::-moz-placeholder",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark:-ms-input-placeholder",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark::placeholder",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark:read-only:not(select)",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark:invalid",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark.is-success",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark.is-warning",
+        "declarations": 1
+      },
+      {
+        "selector": ".field-dark.is-error",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-blue:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-blue:active,\n.button-blue.is-active",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-blue:disabled,\n.button-blue.is-disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-blue-outline:active",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-gray:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-gray:active,\n.button-gray:is-active",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-gray:disabled,\n.button-gray.is-disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-red:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-red:active,\n.button-red.is-active",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-red:disabled,\n.button-red.is-disabled",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-nav-light:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-nav-light:active,\n.button-nav-light.is-active",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-nav-dark",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-nav-dark:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-nav-dark:active,\n.button-nav-dark.is-active",
+        "declarations": 1
+      },
+      {
+        "selector": ".button-nav-tab:hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".dark-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".white",
+        "declarations": 1
+      },
+      {
+        "selector": ".blue",
+        "declarations": 1
+      },
+      {
+        "selector": ".mid-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".light-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".lighter-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".red",
+        "declarations": 1
+      },
+      {
+        "selector": ".green",
+        "declarations": 1
+      },
+      {
+        "selector": ".yellow",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-dark-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-white",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-blue",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-mid-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-light-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-lighter-gray",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-red",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-green",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-yellow",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-darken-1",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-darken-2",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-darken-3",
+        "declarations": 1
+      },
+      {
+        "selector": ".bg-darken-4",
+        "declarations": 1
+      },
+      {
+        "selector": ".rounded",
+        "declarations": 1
+      },
+      {
+        "selector": ".circle",
+        "declarations": 1
+      },
+      {
+        "selector": ".rounded-top",
+        "declarations": 1
+      },
+      {
+        "selector": ".rounded-right",
+        "declarations": 1
+      },
+      {
+        "selector": ".rounded-bottom",
+        "declarations": 1
+      },
+      {
+        "selector": ".rounded-left",
+        "declarations": 1
+      },
+      {
+        "selector": ".not-rounded",
         "declarations": 1
       }
     ]
@@ -1465,7 +1465,7 @@
     "class": 279,
     "id": 0,
     "pseudoClass": 41,
-    "pseudoElement": 3,
+    "pseudoElement": 4,
     "values": [
       "body",
       "button",
@@ -1818,7 +1818,43 @@
     "specificity": {
       "max": 30,
       "average": 10.403458213256485
-    }
+    },
+    "selectorsLists": [
+      "body,\nbutton",
+      "button,\ninput,\nselect,\ntextarea",
+      "h1,\nh2,\nh3,\nh4,\nh5,\nh6",
+      "p,\ndl,\nol,\nul",
+      "ol,\nul",
+      "pre,\ncode,\nsamp",
+      "blockquote,\nblockquote p",
+      "h1,\n.h1",
+      "h2,\n.h2",
+      "h3,\n.h3",
+      "h4,\n.h4",
+      "h5,\n.h5",
+      "h6,\n.h6",
+      "input,\nselect,\ntextarea,\nfieldset",
+      "input[type=text],\ninput[type=datetime],\ninput[type=datetime-local],\ninput[type=email],\ninput[type=month],\ninput[type=number],\ninput[type=password],\ninput[type=search],\ninput[type=tel],\ninput[type=time],\ninput[type=url],\ninput[type=week]",
+      "button,\n.button",
+      "th,\ntd",
+      ".clearfix:before,\n.clearfix:after",
+      ".sm-show,\n.md-show,\n.lg-show",
+      ".x-group-item:focus,\n.x-group-item-2:focus,\n.y-group-item:focus,\n.y-group-item-2:focus",
+      "pre,\ncode",
+      ".radio-light,\n.checkbox-light",
+      ".radio-light:focus,\n.checkbox-light:focus",
+      ".table-light th,\n.table-light td",
+      ".button-blue:active,\n.button-blue.is-active",
+      ".button-blue:disabled,\n.button-blue.is-disabled",
+      ".button-blue-outline:hover,\n.button-blue-outline.is-active",
+      ".button-blue-outline:disabled,\n.button-blue-outline.is-disabled",
+      ".button-gray:active,\n.button-gray:is-active",
+      ".button-gray:disabled,\n.button-gray.is-disabled",
+      ".button-red:active,\n.button-red.is-active",
+      ".button-red:disabled,\n.button-red.is-disabled",
+      ".button-nav-light:active,\n.button-nav-light.is-active",
+      ".button-nav-dark:active,\n.button-nav-dark.is-active"
+    ]
   },
   "declarations": {
     "total": 471,
@@ -2486,7 +2522,7 @@
             "max": 1,
             "average": 1
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".sm-show",
               "declarations": 1
@@ -2506,7 +2542,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 1,
@@ -2529,7 +2566,7 @@
             "max": 1,
             "average": 1
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".md-show",
               "declarations": 1
@@ -2549,7 +2586,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 1,
@@ -2572,7 +2610,7 @@
             "max": 1,
             "average": 1
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".lg-show",
               "declarations": 1
@@ -2592,7 +2630,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 1,
@@ -2615,7 +2654,7 @@
             "max": 1,
             "average": 1
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".sm-hide",
               "declarations": 1
@@ -2635,7 +2674,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 1,
@@ -2658,7 +2698,7 @@
             "max": 1,
             "average": 1
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".md-hide",
               "declarations": 1
@@ -2678,7 +2718,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 1,
@@ -2701,7 +2742,7 @@
             "max": 1,
             "average": 1
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
               "selector": ".lg-hide",
               "declarations": 1
@@ -2721,7 +2762,8 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": []
         },
         "declarations": {
           "total": 1,
@@ -2757,53 +2799,17 @@
             "max": 3,
             "average": 1.2857142857142858
           },
-          "selectorByRuleSizes": [
-            {
-              "selector": ",.sm-col-right",
-              "declarations": 3
-            },
+          "selectorRuleSizes": [
             {
               "selector": ".sm-col",
               "declarations": 3
             },
             {
-              "selector": ",.sm-col-12",
-              "declarations": 1
+              "selector": ",.sm-col-right",
+              "declarations": 3
             },
             {
-              "selector": ",.sm-col-11",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-10",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-9",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-8",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-7",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-6",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-5",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-4",
-              "declarations": 1
-            },
-            {
-              "selector": ",.sm-col-3",
+              "selector": ",.sm-col-1",
               "declarations": 1
             },
             {
@@ -2811,7 +2817,43 @@
               "declarations": 1
             },
             {
-              "selector": ",.sm-col-1",
+              "selector": ",.sm-col-3",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-4",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-5",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-6",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-7",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-8",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-9",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-10",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-11",
+              "declarations": 1
+            },
+            {
+              "selector": ",.sm-col-12",
               "declarations": 1
             }
           ]
@@ -2842,7 +2884,22 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": [
+            ",.sm-col-right",
+            ",.sm-col-1",
+            ",.sm-col-2",
+            ",.sm-col-3",
+            ",.sm-col-4",
+            ",.sm-col-5",
+            ",.sm-col-6",
+            ",.sm-col-7",
+            ",.sm-col-8",
+            ",.sm-col-9",
+            ",.sm-col-10",
+            ",.sm-col-11",
+            ",.sm-col-12"
+          ]
         },
         "declarations": {
           "total": 18,
@@ -2901,53 +2958,17 @@
             "max": 3,
             "average": 1.2857142857142858
           },
-          "selectorByRuleSizes": [
-            {
-              "selector": ",.md-col-right",
-              "declarations": 3
-            },
+          "selectorRuleSizes": [
             {
               "selector": ".md-col",
               "declarations": 3
             },
             {
-              "selector": ",.md-col-12",
-              "declarations": 1
+              "selector": ",.md-col-right",
+              "declarations": 3
             },
             {
-              "selector": ",.md-col-11",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-10",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-9",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-8",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-7",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-6",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-5",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-4",
-              "declarations": 1
-            },
-            {
-              "selector": ",.md-col-3",
+              "selector": ",.md-col-1",
               "declarations": 1
             },
             {
@@ -2955,7 +2976,43 @@
               "declarations": 1
             },
             {
-              "selector": ",.md-col-1",
+              "selector": ",.md-col-3",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-4",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-5",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-6",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-7",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-8",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-9",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-10",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-11",
+              "declarations": 1
+            },
+            {
+              "selector": ",.md-col-12",
               "declarations": 1
             }
           ]
@@ -2986,7 +3043,22 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": [
+            ",.md-col-right",
+            ",.md-col-1",
+            ",.md-col-2",
+            ",.md-col-3",
+            ",.md-col-4",
+            ",.md-col-5",
+            ",.md-col-6",
+            ",.md-col-7",
+            ",.md-col-8",
+            ",.md-col-9",
+            ",.md-col-10",
+            ",.md-col-11",
+            ",.md-col-12"
+          ]
         },
         "declarations": {
           "total": 18,
@@ -3045,53 +3117,17 @@
             "max": 3,
             "average": 1.2857142857142858
           },
-          "selectorByRuleSizes": [
-            {
-              "selector": ",.lg-col-right",
-              "declarations": 3
-            },
+          "selectorRuleSizes": [
             {
               "selector": ".lg-col",
               "declarations": 3
             },
             {
-              "selector": ",.lg-col-12",
-              "declarations": 1
+              "selector": ",.lg-col-right",
+              "declarations": 3
             },
             {
-              "selector": ",.lg-col-11",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-10",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-9",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-8",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-7",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-6",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-5",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-4",
-              "declarations": 1
-            },
-            {
-              "selector": ",.lg-col-3",
+              "selector": ",.lg-col-1",
               "declarations": 1
             },
             {
@@ -3099,7 +3135,43 @@
               "declarations": 1
             },
             {
-              "selector": ",.lg-col-1",
+              "selector": ",.lg-col-3",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-4",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-5",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-6",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-7",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-8",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-9",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-10",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-11",
+              "declarations": 1
+            },
+            {
+              "selector": ",.lg-col-12",
               "declarations": 1
             }
           ]
@@ -3130,7 +3202,22 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": [
+            ",.lg-col-right",
+            ",.lg-col-1",
+            ",.lg-col-2",
+            ",.lg-col-3",
+            ",.lg-col-4",
+            ",.lg-col-5",
+            ",.lg-col-6",
+            ",.lg-col-7",
+            ",.lg-col-8",
+            ",.lg-col-9",
+            ",.lg-col-10",
+            ",.lg-col-11",
+            ",.lg-col-12"
+          ]
         },
         "declarations": {
           "total": 18,
@@ -3177,13 +3264,13 @@
             "max": 2,
             "average": 2
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
-              "selector": ",.sm-table-cell",
+              "selector": ".sm-table",
               "declarations": 2
             },
             {
-              "selector": ".sm-table",
+              "selector": ",.sm-table-cell",
               "declarations": 2
             }
           ]
@@ -3202,7 +3289,10 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": [
+            ",.sm-table-cell"
+          ]
         },
         "declarations": {
           "total": 4,
@@ -3233,13 +3323,13 @@
             "max": 2,
             "average": 2
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
-              "selector": ",.md-table-cell",
+              "selector": ".md-table",
               "declarations": 2
             },
             {
-              "selector": ".md-table",
+              "selector": ",.md-table-cell",
               "declarations": 2
             }
           ]
@@ -3258,7 +3348,10 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": [
+            ",.md-table-cell"
+          ]
         },
         "declarations": {
           "total": 4,
@@ -3289,13 +3382,13 @@
             "max": 2,
             "average": 2
           },
-          "selectorByRuleSizes": [
+          "selectorRuleSizes": [
             {
-              "selector": ",.lg-table-cell",
+              "selector": ".lg-table",
               "declarations": 2
             },
             {
-              "selector": ".lg-table",
+              "selector": ",.lg-table-cell",
               "declarations": 2
             }
           ]
@@ -3314,7 +3407,10 @@
           "specificity": {
             "max": 10,
             "average": 10
-          }
+          },
+          "selectorsLists": [
+            ",.lg-table-cell"
+          ]
         },
         "declarations": {
           "total": 4,
@@ -3334,5 +3430,9 @@
         }
       }
     ]
+  },
+  "fontFaces": {
+    "total": 0,
+    "src": []
   }
 }

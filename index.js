@@ -1,14 +1,14 @@
-var _ = require('lodash')
-var postcss = require('postcss')
-var safeParser = require('postcss-safe-parser')
-var bytes = require('bytes')
-var gzipSize = require('gzip-size')
-var size = require('./lib/size')
-var rules = require('./lib/rules')
-var selectors = require('./lib/selectors')
-var declarations = require('./lib/declarations')
-var mediaQueries = require('./lib/media-queries')
-var fontFaces = require('./lib/font-faces')
+const _ = require('lodash')
+const postcss = require('postcss')
+const safeParser = require('postcss-safe-parser')
+const bytes = require('bytes')
+const gzipSize = require('gzip-size')
+const size = require('./lib/size')
+const rules = require('./lib/rules')
+const selectors = require('./lib/selectors')
+const declarations = require('./lib/declarations')
+const mediaQueries = require('./lib/media-queries')
+const fontFaces = require('./lib/font-faces')
 
 module.exports = function (src, opts) {
   opts = opts || {}
@@ -24,9 +24,9 @@ module.exports = function (src, opts) {
   })
 
   function parse (root, result) {
-    var stats = {}
+    const stats = {}
 
-    var string = postcss().process(root).css
+    const string = postcss().process(root).css
     stats.size = size(string)
     stats.gzipSize = gzipSize.sync(string)
     stats.humanizedSize = bytes(stats.size, { decimalPlaces: 0 })
@@ -67,8 +67,8 @@ module.exports = function (src, opts) {
 
   if (typeof src === 'string') {
     // Default behavior
-    var root = postcss().process(src, { parser: safeParser }).root
-    var result = parse(root, {})
+    const root = postcss().process(src, { parser: safeParser }).root
+    const result = parse(root, {})
     return result
   } else if (typeof src === 'object' || typeof src === 'undefined') {
     // Return a PostCSS plugin
