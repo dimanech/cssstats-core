@@ -1,6 +1,6 @@
 {
   "name": "@dimanech/cssstat-core",
-  "version": "3.2.1",
+  "version": "3.3.0",
   "description": "High-level stats for stylesheets",
   "main": "index.js",
   "author": "Brent Jackson",
